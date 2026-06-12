@@ -1,6 +1,6 @@
 import random
 
-words = ["apple", "tiger", "height", "plant", "river"]
+words = ["orange", "tiger", "height", "plant", "river"]
 
 word = random.choice(words)
 
